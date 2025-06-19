@@ -94,7 +94,8 @@ input {
 .list ul {
     list-style: none;
     width: 80%;
-    overflow: scroll;
+    overflow: hidden;
+    /* overflow: scroll; */
 
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -105,6 +106,7 @@ input {
 
 .list li {
     display: flex;
+    justify-content: center;
     align-items: center;
     gap: 1.2rem;
 }
