@@ -2,7 +2,7 @@ function Stats({ numItems, numPacked, percentage }) {
     if (!numItems)
         return (
             <p className='stats'>
-                <em>Start adding some items to your packing list 🚀</em>
+                <em>Start adding some items to the packing list.</em>
             </p>
         );
     else

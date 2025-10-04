@@ -6,11 +6,11 @@
     --color-text: #3a312a;        /* main text */
     --color-text-muted: #847a6e;  /* secondary text */
     --color-accent: #a4a39e;      /* accent (buttons, highlights) */
-    --color-bg-alt: #ececee;          /* page background */
-    --color-container-alt: #d0d8dc;   /* cards / light areas */
-    --color-text-alt: #2d2d1b;        /* main text */
-    --color-text-muted-alt: #ccbbb1;  /* secondary background/text */
-    --color-accent-alt: #743723;      /* accent (buttons, highlights) */
+    --color-bg-alt: #ececee;          
+    --color-container-alt: #d0d8dc;   
+    --color-text-alt: #2d2d1b;        
+    --color-text-muted-alt: #ccbbb1;  
+    --color-accent-alt: #743723;      
 
 
 }
