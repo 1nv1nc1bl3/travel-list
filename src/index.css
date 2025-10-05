@@ -10,7 +10,8 @@
     --color-container-alt: #d0d8dc;   
     --color-text-alt: #2d2d1b;        
     --color-text-muted-alt: #ccbbb1;  
-    --color-accent-alt: #743723;      
+    --color-accent-alt: #743723;    
+    --color-main-heading: #743723;
 
 
 }
@@ -52,7 +53,8 @@ h1 {
     word-spacing: 30px;
     letter-spacing: -1px;
     padding: 2.4rem 0;
-    color: var(--color-text-muted);
+    color: var(--color-main-heading);
+    /* color: var(--color-text-muted); */
     /* color: var(--color-container); */
 }
 
